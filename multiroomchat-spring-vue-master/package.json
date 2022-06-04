@@ -1,0 +1,20 @@
+{
+  "name": "multiroomchat-spring-vue-master",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "multiroomchat-spring-vue-master",
+      "version": "1.0.0",
+      "license": "ISC"
+    }
+  },
+  "description": "A multiroom chat application with Java, Spring, WebSocket on the backend and Vue, Vuex, Nuxt.js on the frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

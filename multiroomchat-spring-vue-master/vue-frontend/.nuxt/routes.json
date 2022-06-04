@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\multiroomchat-spring-vue-master\\\\multiroomchat-spring-vue-master\\\\vue-frontend\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\multiroomchat-spring-vue-master\\\\multiroomchat-spring-vue-master\\\\vue-frontend\\\\pages\\\\chat\\\\index.vue",
+    "chunkName": "pages/chat/index"
+  },
+  {
+    "name": "chat-roomId",
+    "path": "/chat/:roomId",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\multiroomchat-spring-vue-master\\\\multiroomchat-spring-vue-master\\\\vue-frontend\\\\pages\\\\chat\\\\_roomId\\\\index.vue",
+    "chunkName": "pages/chat/_roomId/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\multiroomchat-spring-vue-master\\\\multiroomchat-spring-vue-master\\\\vue-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
