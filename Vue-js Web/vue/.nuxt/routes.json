@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\Web chat\\\\Vue-js Web\\\\vue\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\Web chat\\\\Vue-js Web\\\\vue\\\\pages\\\\chat\\\\index.vue",
+    "chunkName": "pages/chat/index"
+  },
+  {
+    "name": "chat-roomId",
+    "path": "/chat/:roomId",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\Web chat\\\\Vue-js Web\\\\vue\\\\pages\\\\chat\\\\_roomId\\\\index.vue",
+    "chunkName": "pages/chat/_roomId/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Тигран\\\\Desktop\\\\Практика\\\\Web chat\\\\Vue-js Web\\\\vue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

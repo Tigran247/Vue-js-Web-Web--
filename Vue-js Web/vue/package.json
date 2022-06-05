@@ -1,0 +1,22 @@
+{
+  "name": "vue-frontend",
+  "version": "1.0.0",
+  "description": "> Vue-js Web",
+  "main": "nuxt.config.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.16",
+    "nuxt": "^2.15.8",
+    "sockjs-client": "^1.6.0",
+    "webstomp-client": "^1.2.6"
+  }
+}
